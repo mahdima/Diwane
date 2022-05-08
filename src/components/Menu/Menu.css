@@ -1,0 +1,42 @@
+
+.menu{
+    width: 13%;
+    float: right;
+    margin-top: 3%;
+    margin-right: 5%;
+    color: #fff;
+
+}
+.menubtn{
+    float: right;
+
+}
+.list{
+   
+    background-color: #fff;
+    margin-right: 22px;
+border-radius: 8px;
+}
+ul {
+    list-style: none;
+margin-top: 43px;
+height: 170px;
+font-size: 12px;
+font-weight: 500;
+line-height: 30px;
+margin-right: 25%;
+display: none;
+
+}
+
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    text-align: center
+
+}
+ul.active {
+display: block; 
+
+}
